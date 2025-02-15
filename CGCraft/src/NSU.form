@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<form xmlns="http://www.intellij.com/uidesigner/form/" version="1" bind-to-class="NSU">
+  <grid id="27dc6" binding="MainNsu" layout-manager="GridLayoutManager" row-count="6" column-count="2" same-size-horizontally="false" same-size-vertically="false" hgap="-1" vgap="-1">
+    <margin top="0" left="0" bottom="0" right="0"/>
+    <constraints>
+      <xy x="20" y="20" width="500" height="400"/>
+    </constraints>
+    <properties>
+      <background color="-9224961"/>
+    </properties>
+    <border type="none"/>
+    <children>
+      <component id="11fff" class="javax.swing.JLabel" binding="hdl">
+        <constraints>
+          <grid row="0" column="0" row-span="1" col-span="2" vsize-policy="0" hsize-policy="0" anchor="0" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <font name="Algerian" size="32" style="2"/>
+          <foreground color="-131073"/>
+          <text value="GG X NSU   "/>
+        </properties>
+      </component>
+      <component id="1969c" class="javax.swing.JLabel" binding="CGL">
+        <constraints>
+          <grid row="4" column="0" row-span="1" col-span="2" vsize-policy="0" hsize-policy="0" anchor="0" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <background color="-657931"/>
+          <font name="Comic Sans MS" size="22" style="1"/>
+          <foreground color="-330784"/>
+          <text value="SMASH TO GRAP TOTAL CG !!"/>
+        </properties>
+      </component>
+      <component id="64b79" class="javax.swing.JLabel">
+        <constraints>
+          <grid row="1" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <font name="Lucida Calligraphy" size="14" style="1"/>
+          <foreground color="-131073"/>
+          <text value="CREDIT IN THE COURSE FAM...."/>
+        </properties>
+      </component>
+      <component id="404cd" class="javax.swing.JFormattedTextField" binding="formattedTextField1" default-binding="true">
+        <constraints>
+          <grid row="1" column="1" row-span="1" col-span="1" vsize-policy="0" hsize-policy="6" anchor="8" fill="1" indent="0" use-parent-layout="false">
+            <preferred-size width="150" height="-1"/>
+          </grid>
+        </constraints>
+        <properties>
+          <background color="-8214022"/>
+          <font name="Century Schoolbook" size="16" style="1"/>
+        </properties>
+      </component>
+      <component id="29cd4" class="javax.swing.JLabel" binding="GRL">
+        <constraints>
+          <grid row="2" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <font name="Lucida Calligraphy" size="14" style="1"/>
+          <foreground color="-131073"/>
+          <text value="YOUR GRADE HOMIE !!!   "/>
+        </properties>
+      </component>
+      <component id="dd7c" class="javax.swing.JFormattedTextField" binding="formattedTextField2" default-binding="true">
+        <constraints>
+          <grid row="2" column="1" row-span="1" col-span="1" vsize-policy="0" hsize-policy="6" anchor="8" fill="1" indent="0" use-parent-layout="false">
+            <preferred-size width="150" height="-1"/>
+          </grid>
+        </constraints>
+        <properties>
+          <background color="-8214022"/>
+          <font name="Century Schoolbook" size="16" style="1"/>
+          <text value=""/>
+        </properties>
+      </component>
+      <component id="343dc" class="javax.swing.JButton" binding="SMASHButton" default-binding="true">
+        <constraints>
+          <grid row="3" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <background color="-8278529"/>
+          <enabled value="true"/>
+          <font name="Brush Script MT" size="22" style="3"/>
+          <foreground color="-16777216"/>
+          <text value="SMASH!!"/>
+        </properties>
+      </component>
+      <component id="1a62c" class="javax.swing.JButton" binding="PASSButton" default-binding="true">
+        <constraints>
+          <grid row="3" column="1" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <background color="-8278529"/>
+          <font name="Brush Script MT" size="22" style="3"/>
+          <foreground color="-16777216"/>
+          <hideActionText value="false"/>
+          <text value=" PASS !!"/>
+        </properties>
+      </component>
+      <component id="1d121" class="javax.swing.JButton" binding="knockItOffDUHButton" default-binding="true">
+        <constraints>
+          <grid row="5" column="1" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="6" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <background color="-8091137"/>
+          <font name="Baskerville Old Face" size="12" style="2"/>
+          <foreground color="-16777216"/>
+          <horizontalAlignment value="0"/>
+          <text value="knock it off....DUH!!"/>
+        </properties>
+      </component>
+    </children>
+  </grid>
+</form>
